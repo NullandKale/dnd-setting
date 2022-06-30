@@ -1,3 +1,0 @@
-# Adventurers College
-
-TBD

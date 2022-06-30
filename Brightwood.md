@@ -34,7 +34,15 @@ Calavan is nestled between the edge of the forest and the Romdover river.
 
 Calavan started as a farming town. The land north of the Brightwood forest being extremely fertile and extremely flat proved to be the perfect place to plant orchards. This investment by the original settlers paid huge dividends and the orchards still provide a large portion of the food for the population of the [Republic of Fayfall](/Fayfall.md) and the [Kingdom of Alomar](/Alomar.md).
 
-Calavan is now a city with two faces. When most think of Calavan they think of the Adventurers College but most of the population in Calavan exist to support the orchards. The College is immensely diverse, filled with all the species of the world. This is a stark contrast to the non-college population which is 
+Calavan is now a city with two faces. When most think of Calavan they think of the Adventurers College but most of the population in Calavan exist to support the orchards. The College is immensely diverse, filled with all the species of the world. This is a stark contrast to the non-college population which is mostly orchard workers.
+
+### The spring pact
+
+Calavan is blessed by **the spring pact** between the council and the druids of brightwood. In exchange for protection, isolation, and food donations, the druids bless the city of calavan with **the great season**. There are many effects of the great season, but the most noticeable is the weather in Calavan. Extending from the center of the city is an **aura of spring** which maintains the spring like weather year round.
+
+### The Harvest Festival
+
+Once a year on November 30th the harvest festival takes place. A day of tournaments, concerts, and celebrations. Culminating in the rebirth ceremony, where a yearly gift from the druids of brightwood refuel the spring pact.
 
 ### The council of orchardists
 
@@ -47,6 +55,8 @@ A majority of the adventurers in the continent come from the college. Those who 
 ### Unnamed thieves guild
 
 Hidden in the shadows is a lose federation of thieves and fences that operate in the underworld of Calavan. They also operate a black market that deals in anything illegal: drugs, illicit potions, alchemical ingredients, etc.
+
+
 
 ## Starvein - The stone city
 
