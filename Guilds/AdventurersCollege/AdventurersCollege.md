@@ -1,6 +1,6 @@
 # Adventurers College
 
-## Leadership
+## Council
 
 * Roger Caskbow -- Head Wizard and Arch-mage
 * Kaylein Cleves -- Head Sorceress and Vice-mage
