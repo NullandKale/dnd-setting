@@ -22,10 +22,10 @@ Camtrie sits in the middle of the road from Calavan to Starvein. This tiny settl
 ## Calavan - The city of orchards.
 
 * Population: 15,000
-* Government: Plutocracy (The council of orchardists)
+* Government: Plutocracy (The Council of Orchardists)
 * Guard: The Apple Blossoms
 * Notable City Specific Factions:
-  * The council of orchardists
+  * The Council of Orchardists
   * The Adventurers College
   * Unnamed thieves guild
   * Pickers (guild of unskilled orchard workers)
