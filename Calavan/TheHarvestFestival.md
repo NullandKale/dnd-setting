@@ -1,6 +1,6 @@
 # The Harvest Festival
 
-Once a year on November 30th the harvest festival takes place. A day of tournaments, concerts, and celebrations. Culminating in the rebirth ceremony, where a yearly gift from the druids of brightwood refuel the spring pact.
+Once a year on November 30th the harvest festival takes place. A day of tournaments, concerts, and celebrations. Culminating in the regrowth ceremony, where a yearly gift from the druids of brightwood refuel the spring pact.
 
 The Adventurers College runs the tournament, with a few of the instructors running the individual contests.
 
@@ -14,9 +14,12 @@ Run by Thain Goldback, the worlds worst MC, but if they don't make him MC he wil
 
 Each contestant gets on stage and performs for the crowd, one at a time. The crowd then votes on who they like best. Magic optional but recommended.
 
-Roll 10d6, for each magical action that the contestant can conjure add 1d6 and drop the lowest roll.
+Roll 10d6 + Performance mod, for each magical action that the contestant can conjure add 1d6 and drop the lowest roll.
 
 Highest rolls win.
+
+Heather: 41
+Sosa Hipvild: 29
 
 ### Pie barreling contest. (str and dex)
 
@@ -30,6 +33,9 @@ Set a timer for 100 seconds.
 2. Then the thrower must make a dc 15 dex check to make it in the barrel. 
 3. Repeat counting the throwers successes.
 
+Heather and Gary G: 8
+Mertel and Bromren: 6
+
 ### Walnut hunt. (insight, stealth, and slight of hand)
 
 Just finding this contest is the first hurdle. Fourteen Relics is drinking at the bar, and the player must pass a dc 10 charisma check to find out about the contest.
@@ -41,6 +47,9 @@ opposed stealth check to not be seen.
 If you are seen you get disadvantage on the slight of hand check, advantage if you are in stealth.
 
 As there is only one winner, this contest awards 5 points.
+
+Gary B: 4 missed checks
+Entril: 3 missed checks
 
 ## Combat contests
 
@@ -61,6 +70,9 @@ roll 3 attacks at once.
 
 First, Second, and Third place is decided by who has the least points.
 
+Gary P: (4, 8, 13) (8, 12, 16) (9, 10, 15) = 57
+Mertel: (9, 10, 13) (*9, *5, *3) (6, 11, 20) = 51
+
 ### Scarecrow scuffle
 
 Kul Gutfrul's favorite part of the harvest festival, straw goes EVERYWHERE, and cleanup requires a bit of fire breath and they are always happy to provide it.
@@ -68,3 +80,9 @@ Kul Gutfrul's favorite part of the harvest festival, straw goes EVERYWHERE, and 
 First to obliterate a scarecrow wins!
 
 1 target (scarecrow), with enough hp to last at least a 3 rounds,First, Second, and Third place is decided by who destroys it first.
+
+15 AC 
+20 HP
+
+Gary P: 4 rounds, last one crits
+Entril: 14 rounds, misses 9 times in a row

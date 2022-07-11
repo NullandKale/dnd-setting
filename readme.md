@@ -2,11 +2,15 @@
 * [Brightwood](/Brightwood.md)
 
 
-# Initial Story:
+# Session 0
 
-The campaign will start with all of the PC's as graduating members of the Adventurers Guild in Calavan. 
+## Character Creation:
+* Class / Race 
+* Why are you in the Adventurers College
+* How did you all form an adventuring group
 
-When they get their assignments they will learn that they have been relegated to be protectors of Camtrie. This tiny settlement exists in totality as a rest stop for merchant caravans and travelers traveling south along the road from Calavan towards Starvein.
 
-Is this assignment a punishment? Is there something the PC's don't know? We will find out.
+## Harvest Festival Contest
+Today is an important day of they year for the City of Orchards. The Harvest Festival importantly marks the renewal day for the spring pact, but before the regrowth ceremony takes place the tournament winner must be picked. 
 
+Last year your adventuring party got within one point of winning, but lost to Heather and the Gary's and Heather did NOT let you guys forget it. 

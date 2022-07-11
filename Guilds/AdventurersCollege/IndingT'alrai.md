@@ -5,7 +5,7 @@ She has a very sharp face.
 
 She gestures profusely during a conversation.
 
-As a worshiper of Grumbar Inding hates anything that fly's as doing so disrespects the power of the ground.
+As a worshiper of Grumbar, Inding hates anything that fly's as doing so disrespects the power of the ground.
 
 Personality Traits
 * She worships Grumbar, God of earth.
