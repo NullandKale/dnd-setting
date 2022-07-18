@@ -6,6 +6,8 @@ A "70" year old male human wizard. Short, straight, dyed black hair and blue eye
 
 He is actually 500 years old, and is the original leader of Calavan, when it was a colony. He was part of the original adventuring party that started the college.
 
+Roger has a familiar named whiskers that constantly changes shape whenever it feels like it. Originally a cat, 
+
 ### Personality Traits
 
 * He quietly worships Ubano, God of creation (True Neutral)
