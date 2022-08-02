@@ -9,9 +9,9 @@ The way is long, around 1 week of travel there and 1 week back, you will need to
 Perlen moonpride - old cheif Thea's dad
 Agolor moonpride - old cheif Thea's mom
 
-## First encounter: Merchants leaving Calavan for Starvein
+## Encounter: Merchants leaving Calavan for Starvein
 
-As you are leaving the city you notice a cart pulled by two large horses, with a Dark Elf driver and a posh looking man sitting next to her.
+On the road you notice a cart pulled by two large horses, with a Dark Elf driver and a posh looking man sitting next to her.
 
 Mardem Zidul -- Potion Merchant Human 40s
 
@@ -22,13 +22,16 @@ Mardem Zidul -- Potion Merchant Human 40s
 Tel Peacekiller -- Dark Elf guard 200 ish? 
 Gruff, doesnt want to talk, just wants to get back on the road
 
-## If they go to fast:
+3 wolves attack. If that seems easy as the last one dies it howls for another 3 wolves to join.
 
-3 wolves attack on the road. If that seems easy as the last one dies it howls for another 3 wolves to join.
+## Encounter: The Tempple of the One
+As you are walking down the path towards Camp Full Moon you see from a distance a Fae woman fighting against two bandits who pull her into a ruin.
 
-## Second encounter: Awakened Forest
+See Brightwood > Temple of the One.
 
-As you leave your first days camp you feel a sparkle of arcane energy in the air. 
+## Encounter: Awakened Forest
+
+As you leave camp you feel a sparkle of arcane energy in the air. 
 
 2 Awakened Shrubs MM 317 and 1 Awakened Tree MM 317 attack.
 
