@@ -53,7 +53,7 @@ Tevin needs spells
 ## Rest of the Harvest Festival
 
 Point board:
-The group has 3 points
+The Blue team has 8 points
 The Heather and the Garys have 1 point
 The Worshipers Of Ubano have 2 points
 
@@ -73,3 +73,5 @@ Next to that you see some people taking shots at archery targets
 
 And next to that you see Kul Gutfrul sweeping straw into a pile, next too a few scare crows stacked up against a wall.
 
+Bilar Ceimar owns 50% of the town
+Aludra flirts with 

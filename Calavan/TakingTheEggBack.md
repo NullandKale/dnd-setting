@@ -6,6 +6,9 @@ Arch-Mage Caskbow sits on the front of his desk and places his hand on the great
 
 The way is long, around 1 week of travel there and 1 week back, you will need to pack provisions, camping supplies, and should be prepared for the wild life. Wolves and the like tend to be more ambitious during these months as they prepare for winter. But I think you all can handle it.
 
+Perlen moonpride - old cheif Thea's dad
+Agolor moonpride - old cheif Thea's mom
+
 ## First encounter: Merchants leaving Calavan for Starvein
 
 As you are leaving the city you notice a cart pulled by two large horses, with a Dark Elf driver and a posh looking man sitting next to her.
