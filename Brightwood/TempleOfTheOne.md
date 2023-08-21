@@ -84,3 +84,13 @@ A large table sits in the center of the room, made from logs it is surrounded by
 ### Hidden Temple
 
 A giant Quor statue sits in the center of the room, with an offering table. On the offering table is the key to 8.
+
+2 Guard
+Aludra 2
+Marty 9
+1 Captaion
+Tevin 20
+Sandra 22
+
+3 / 11
+64 / 65

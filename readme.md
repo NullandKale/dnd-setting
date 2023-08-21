@@ -74,4 +74,71 @@ Next to that you see some people taking shots at archery targets
 And next to that you see Kul Gutfrul sweeping straw into a pile, next too a few scare crows stacked up against a wall.
 
 Bilar Ceimar owns 50% of the town
-Aludra flirts with 
+2 Wolves
+Tevin 5
+1 wolf
+Marty 12
+Aludra 17
+Sandra 20
+
+
+Why do musicians make great scavengers? They're always luting.
+How do dragons rate their satisfaction with their lives? On a scale.
+Why do Rogues wear Leather? Because it's made out of Hide.
+
+Mix red (blood) and blue (sky) potions to get purple (royal hue) potion.
+Drink the purple potion. This potion will invoke temporary blindness to that player (night descend).
+The purple potion will refill in the beaker it was drunk from (fills anew).
+Mix yellow (sun) and blue (sea) potions to get green (grass) potion.
+Drink green potion. This will invoke temporary deafness for that player (hushed it's voice).
+The green potion will refill in the beaker it was drunk from (refill completeness).
+Mix the purple (royal) and green (grass) potions together.
+Drink this potion. This potion will cure blindness and deafness caused by other potions and also the Death Cloud virus. It will also refill so all players can be cured.
+
+I cover cities and destroy mountains,
+I make men blind, yet help them see.
+
+Answer: Sand
+
+What walks with four legs in the morning,
+two legs in the afternoon,
+and three legs in the evening?
+
+Answer: Man
+
+Iron roof, glass walls
+Burns and burns
+And never falls.
+
+Answer: A Lantern
+
+It holds most knowledge that has ever been said;
+But is not the brain, is not the head.
+To feathers and their masters, ’tis both bane and boon. . .
+One empty, and one full.
+
+Answer:Paper
+
+0 tree
+Aludra : 4
+10 4 x shrub
+Thea 13
+Marty : 14
+Amilia : 14
+Tevin : 18
+Sandra : 20
+Trissbella : 23
+
+33 / 40
+
+Aludra: 20
+
+Wight 41
+Quasit 
+1 4 
+
+Tevin: 16
+Dorcas: 10
+Thea: 9
+Marty: 3
+Sandra: 2
