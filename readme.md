@@ -74,6 +74,87 @@ Next to that you see some people taking shots at archery targets
 And next to that you see Kul Gutfrul sweeping straw into a pile, next too a few scare crows stacked up against a wall.
 
 Bilar Ceimar owns 50% of the town
+
+# Next Session:
+
+Gate House:
+Moss and ivy creep up the walls of the ancient castle. Its stone has stood for generations, and even as no one sits inside the walls they stand strong.
+
+As you pass by you see a blacksmiths forge. You see something poking out of the fire. The Blackened Crossbow.
+
+Barracks:
+The guard barracks are kept in a neat if not exacting state: beds made, footlockers shut, spears and swords alike placed neatly within their cupboards to ensure safe handling. A plain wooden table sits in the middle of the room between some bunks, several hands of playing cards tossed carelessly across its surface.
+
+Sitting besides the largest and most prominent bunk in the room is a large battle axe with the same sigil as Trisbella's armor. Underneath is a book with the same sigil.
+
+Stables:
+The barn doors open to reveal several stalls—two with horses sticking their heads over the half-doors—a loft low on hay, saddles on stands, and tack on the walls. A stablegirl exits and carries a coil of rope toward a short row of outdoor stalls under a thatched roof. In one, a tall, dappled mare whinnies and paws the ground with her hoof.
+
+Penny & Steve
+Both horses are alive and know little of what happened, all they saw is the stable master, fizz-scrottle was standing outside and froze in place, then a pair of bandits came by and picked him up and placed him in a cart full of other frozen bandits. Penny and Steve ask to be let out to roam the country side free. They went off towards the well.
+
+As you let penny out she comes up besides you and shows you a blade sticking out of the side of her pack "Can you take this?"
+
+Well:
+You see cart tracks around the well.
+
+Crops:
+The fields of crops are almost exclusively wine grapes, once finely cultivated and managed it now looks like someone took a cart and drove through it.
+
+Great Hall
+Long tables and benches line the sides of this high-ceilinged chamber, leaving a wide central walkway to approach the raised table at the far end. Several high-backed chairs stand behind it, and a vast mural covers the wall. As with the tapestries that decorate the other walls, the mural depicts a wild fae landscape, hunting parties and their quarry, and fruitful gardens, but it also uses the height of wall to display mountains and a high circular window to serve as the sun.
+
+Kitchen
+Myriad smells simultaneously clash and mingle in the fragrant steam spilling from the massive kitchen. Butter, oil, garlic, aromatic herbs, sharp spices—all war for dominance of your senses. Flames lick at copper pots, simmering with sauces and stocks, however no chefs bustle along the line of hissing pans, no hands hold the knives that gleam in the distance.
+
+A familiar smell hits your nose, not a smell any normal chef would know, a poisonous smell. As you search for the location of this smell you see a sickely green kitchen knife
+
+Chapel: 
+Outside you hear a magical call:
+Come one, Come All to the best place in the whole human world for games of chance and delight. A place where the faerie fire and drinks never end. A place of wonder.
+Welcome to the :
+Divine Gambling Hall of a Goddess of Misfortune
+
+You a certain compulsion that you will win from the moment you enter. You see bright lights, wheels of faerie fire, and colorful banners. Invisible magic servents move about with flagons and trays of different colored drinks off to hand drinks to non-existant customers. The festive music of an enormous orchestra fills the gambling hall, eminating from enchanted set of band instruments.
+
+To the right of the entrance you see the place where the they exchange gold coins for the chips used in the casino. The door is ajar and inside is a bright elvish scimitar.
+
+To the left is a strangely familiar sight, Pete sitting behind his bar. As you walk up you feel yourself enter a very familiar location, the sounds of the slimey bottle seem to sit in the background of your consiousness 
+
+Castle Keep:
+
+Normally the place where the residents of the castle would hold out against attacks, you can tell that this place was a staging area 
+
+Madrina Netterrask
+- Wereraven
+- Leader of the scarlet sash
+- Roger Caskbow sent her to find the group
+
+The Grand Library
+- The seat of all learning in starvein.
+- Sage Vo - The Exhultation tower
+
+The Familiar Goose
+- The inn in the working class the kings way.
+- inn keaper - GHURT
+
+Sela Vodz
+- Mister Lu meets the party at the 
+- Her Lady Sela
+- Needs her enemies dog killed before the big show tomorrow
+
+Gremdrus WoodAxe
+- Old Dwarven fixer who owns and operates "The Final Swallow Brewery" who brews the cheapest and shittiest beer in Starvein.
+- Last Heir to "the old city" which was the dwarven kingdom that used to mine the star vein out of the mountain. 
+
+
+bandits 12
+tevin 9
+aludra 7
+sandra 6
+marty 3
+
+
 2 Wolves
 Tevin 5
 1 wolf

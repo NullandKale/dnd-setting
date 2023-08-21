@@ -1,6 +1,6 @@
 # History
 
-## The Quor Empire (Pronounced Qoor)
+## The Quor Empire (Pronounced Core)
 
 An Ancient elvish empire that ruled over most of the world in a violent hyper controlled 1000 year reign.
 
